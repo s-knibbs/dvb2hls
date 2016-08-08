@@ -1,0 +1,7 @@
+# Ignore various build files
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+Release
+Debug
