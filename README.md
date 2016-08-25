@@ -94,6 +94,10 @@ For playback on a PC, [VLC media player](http://www.videolan.org/vlc/index.html)
 playback in VLC due to PCR jitter.
 - Various HLS standards violations currently.
 
+## CONTRIBUTING
+
+The project is currently in a dormant state right now since I don't have the time to work on this currently. But contributions and pull-requests are welcome.
+
 ## LICENSE
 
 The project is licensed under the terms of the GPLv3.
