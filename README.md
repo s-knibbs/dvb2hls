@@ -98,6 +98,10 @@ playback in VLC due to PCR jitter.
 
 The project is currently in a dormant state right now since I don't have the time to work on this currently. But contributions and pull-requests are welcome.
 
+### Debugging
+
+For debugging the HLS streams, Apple have created a [media stream validator tool](https://developer.apple.com/library/ios/technotes/tn2235/_index.html#//apple_ref/doc/uid/DTS40010221-CH1-VALIDATORTOOL). You will need an Apple developer account to download this and a recent version of Mac OS X to run it.
+
 ## LICENSE
 
 The project is licensed under the terms of the GPLv3.
